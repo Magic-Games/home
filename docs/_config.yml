@@ -13,7 +13,7 @@ showinSearchEngines: true
 # Set basic server info
 serverName: MagicGames
 serverDescription: A Minecraft server where we have lots of fun!
-serverIP: play.nethergames.org:19132
+serverIP: play.magicgames.cf:25369
 useBedrockForOnlineStatus: true
 
 
